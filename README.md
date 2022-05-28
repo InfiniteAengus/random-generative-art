@@ -1,7 +1,7 @@
 # Welcome to HashLips 👄
 
 Important: There is a new repo for this code.
-[https://github.com/InfiniteAengus/Generative_Art_Node-Hashlips-](https://github.com/InfiniteAengus/Generative_Art_Node-Hashlips-)
+[https://github.com/InfiniteAengus/random-generative-art](https://github.com/InfiniteAengus/random-generative-art)
 
 # generative-art-node
 

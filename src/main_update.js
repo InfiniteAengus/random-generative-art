@@ -166,4 +166,18 @@ const createMetaData = () => {
   })
 }
 
+// const createMetaData = () => {
+//   fs.stat(`${buildDir}/${metDataFile}`, (err) => {
+//     if (err == null || err.code === 'ENOENT') {
+//       fs.writeFileSync(
+//         `${buildDir}/${metDataFile}`,
+//         JSON.stringify(metadata, null, 2)
+//       )
+//     } else {
+//       console.log('Oh no, error: ', err.code)
+//     }
+//   })
+// }
+
+
 module.exports = { buildSetup, createFiles, createMetaData }
